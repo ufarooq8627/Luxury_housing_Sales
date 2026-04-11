@@ -84,12 +84,12 @@ This project analyzes **~100,000 luxury housing transactions** across 16 micro-m
 ```
 LuxHousingSales/
 │
-├── lux_housin_sales.ipynb              # Main EDA notebook
-├── db_loading.ipynb                    # Database loading notebook (PostgreSQL)
-├── luxury_housing_bangalore.csv        # Raw dataset (~20 MB)
-├── luxury_housing_cleaned_v2.csv       # Cleaned & feature-engineered dataset (~25 MB)
-├── Luxury_Housing_Sales_Analysis.pbix  # Power BI dashboard file
-└── README.md                           # This file
+├── lux_housin_sales.ipynb                  # Main EDA notebook
+├── db_loading.ipynb                        # Database loading notebook (PostgreSQL)
+├── luxury_housing_bangalore.csv            # Raw dataset (~20 MB)
+├── luxury_housing_cleaned_v2.csv           # Cleaned & feature-engineered dataset (~25 MB)
+├── Luxury_Housing_Sales_Analysis_v2.pbix   # Power BI dashboard file
+└── README.md                               # This file
 ```
 
 ---
