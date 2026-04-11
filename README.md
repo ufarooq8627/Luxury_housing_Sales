@@ -241,6 +241,10 @@ ORDER BY
 
 ---
 
+## 📸 Screenshots
+
+![Dashboard Overview](screenshot/bi.png)
+
 ## Future Improvements
 
 - 🤖 **Predictive Modeling**: Build regression models to predict property prices.
