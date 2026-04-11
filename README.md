@@ -244,6 +244,7 @@ ORDER BY
 ## 📸 Screenshots
 
 ![Dashboard Overview](screenshot/bi.png)
+![Dashboard Overview](screenshot/bi_v2.png)
 
 ## Future Improvements
 
